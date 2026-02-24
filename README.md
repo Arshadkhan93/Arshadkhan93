@@ -84,11 +84,10 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arshadkhan93/Arshadkhan93/output/github-contribution-grid-snake.svg" 
-       alt="GitHub Contribution Snake" 
-       style="max-width: 100%; height: auto;">
-</div>
+
+<p align="center">
+  <img src="https://github.com/Arshadkhan93/Arshadkhan93/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
