@@ -1,32 +1,108 @@
-<!-- 🌈 Animated Gradient Header -->
+<!-- 🌈 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Arshad%20Khan&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
-<!-- ⚡ Multi Typing Animation -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Arshad+Khan;Full+Stack+Developer;Java+%7C+Cloud+%7C+Web+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Arshad+Khan;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Cloud;Building+Scalable+Applications;Future+Software+Engineer+🚀" />
 </p>
-
-<!-- 🎮 Animated Coding GIF -->
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
-</p>
-
-## 🚀 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Cloud+Enthusiast+☁️;Problem+Solver+💡;Future+Software+Engineer+🔥" />
-</p>
-
-- 💻 I love building scalable web applications  
-- ☁️ Exploring AWS & Azure Cloud  
-- 🌱 Currently learning System Design & DevOps  
-- 🎯 Goal: Become an Elite Software Engineer  
 
 ---
 
-## 🌐 Connect With Me
+# 💡 Professional Summary
+
+Full Stack Developer specializing in **Java, Spring Boot, React, and Cloud technologies**.  
+Passionate about building **scalable, high-performance applications** with clean architecture and production-ready standards.  
+Currently focused on **System Design, DevOps, Microservices, and Cloud Engineering**.
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Scalable E-Commerce Backend
+- Tech Stack: Java, Spring Boot, MySQL, AWS
+- Secure REST APIs with JWT authentication
+- Role-based access control
+- Integrated payment & order management system
+- Deployed on AWS EC2 with CI/CD  
+- 🔗 Live Demo: (Add Link)  
+- 🔗 Repository: (Add Link)
+
+## 🔹 Full Stack Task Manager
+- Tech Stack: React, Node.js, MongoDB
+- Responsive UI with Tailwind CSS
+- Authentication & protected routes
+- RESTful backend with scalable architecture  
+- 🔗 Live Demo: (Add Link)  
+- 🔗 Repository: (Add Link)
+
+---
+
+# 🧠 Competitive Programming
+
+- ⭐ Solved 300+ DSA problems
+- 🔥 Active on LeetCode
+- 💡 Practicing System Design & Advanced DSA
+- 🎯 Preparing for Product-Based Companies
+
+(Add your LeetCode/CodeChef links if available)
+
+---
+
+# ☁️ Cloud & Certifications
+
+- ☁️ AWS (EC2, S3, IAM, RDS)
+- 🔄 CI/CD Pipelines
+- 🐳 Docker (Learning & Implementing)
+- 📦 Microservices Architecture
+- 📜 (Add Certifications if any)
+
+---
+
+# 🔥 Currently Working On
+
+- Building microservices with Spring Boot
+- Deep diving into System Design concepts
+- Learning Kubernetes
+- Improving problem-solving & DSA
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,c,aws,azure,mysql,tailwind,bootstrap,docker,git&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshadkhan93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshadkhan93&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshadkhan93&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Arshadkhan93/Arshadkhan93/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/its._.arshad07">
@@ -42,70 +118,13 @@
 
 ---
 
-## 💻 Tech Stack
+# 📄 Resume
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,react,spring,aws,azure,mysql,tailwind,bootstrap,figma&theme=dark" />
+  <a href="ADD_YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshadkhan93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshadkhan93&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshadkhan93&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshadkhan93&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshadkhan93&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Arshadkhan93/Arshadkhan93/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 👁 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arshadkhan93&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-<!-- 🎵 Optional Spotify Animation (Remove if not needed) -->
-<!-- Replace USER_ID with your Spotify ID -->
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-</p>
-
 
 ---
 
