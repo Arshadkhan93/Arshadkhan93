@@ -13,9 +13,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 </p>
 
-<!-- 🌊 Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:8A2BE2&height=120&section=header"/> -->
-
 ## 🚀 About Me
 
 <p align="center">
@@ -29,16 +26,13 @@
 
 ---
 
-<!-- 🌊 Divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:00F7FF&height=120&section=header"/>
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/its._.arshad07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arshad-khan-41662a248">
+  <a href="https://www.linkedin.com/in/arshadkhan93">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:arshadkhan10062005@gmail.com">
@@ -47,9 +41,6 @@
 </p>
 
 ---
-
-<!-- 🌊 Divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:FF00FF&height=120&section=header"/>
 
 ## 💻 Tech Stack
 
@@ -93,10 +84,11 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/Arshadkhan93/Arshadkhan93/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Arshadkhan93/Arshadkhan93/output/github-contribution-grid-snake.svg" 
+       alt="GitHub Contribution Snake" 
+       style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
