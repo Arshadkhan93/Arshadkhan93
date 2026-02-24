@@ -9,12 +9,12 @@
 </p>
 
 <!-- 🎮 Animated Coding GIF -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 </p>
 
 <!-- 🌊 Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:8A2BE2&height=120&section=header"/> -->
 
 ## 🚀 About Me
 
